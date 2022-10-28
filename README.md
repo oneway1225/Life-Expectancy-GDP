@@ -10,4 +10,4 @@ A blog version of this project will be posted on Medium: | https://cjlee-data.me
 
 Please feel free to provide any feedbacks.
 
-You can also connect with me via LinkedIn: | linkedin.com/in/chang-joon-lee |
+You can also connect with me via LinkedIn: | https://linkedin.com/in/chang-joon-lee |
